@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@prisma/client": "^5.10.0",
+    "@radix-ui/react-slot": "^1.2.4",
     "@stripe-gateway/sdk": "workspace:*",
     "bcryptjs": "^2.4.3",
     "cls-hooked": "^4.2.2",
